@@ -1,0 +1,7 @@
+package edu.neu.ccs.cs5004.problem2;
+
+public enum MovingViolationType {
+
+  DISTRACTED_DRIVING, RECKLESS_DRIVING, SPEEDING, DUI, FAILURE_TO_STOP,
+  DRIVING_WITHOUT_LICENSE_OR_INSURANCE
+}
